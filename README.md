@@ -1,7 +1,7 @@
 # Hi Programming 👋
 
 
-- 🔭 I’m currently working on Data Science
+- 🔭 I’m currently working on Data Science,flutter
 - 🌱 I’m currently learning Data Science ,Flutter and Django Rest API
 - 👯 I’m looking to collaborate on open Source Projects 
 - 🤔 I’m looking for help with
